@@ -1,0 +1,2 @@
+BerliOS will shutdown soon, so moved files to GitHub:
+https://github.com/Haehnchen/Onlinestreams-for-D-Box2
